@@ -1,0 +1,23 @@
+* 1st we created all the necessary files and directory from the template.py
+* added in git
+* created virtual env
+* installed required libraries
+* added in setup.py file the description and details of the project which we can also show as a pyp library
+* In logging at init file we added custom login
+* added logging file in main.py
+* adding utility common.py commonly used functions so that we can add directly
+* created model for text summarization
+
+
+***** END TO END WORKFLOW for Text summarization *****
+
+update config.yaml
+update params.yaml
+update entity
+update configuration manager in src config
+update components
+update the pipeline
+update main.py
+update app.py in last
+
+**** This will be workflow of out project ****
